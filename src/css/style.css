@@ -33,9 +33,7 @@ nav {
   border-right: 3px black dotted;
 }
 
-.menu__item:nth-last-child() {
-  padding-right: 0;
-}
+
 
 .menu__link {
   text-decoration: none;
