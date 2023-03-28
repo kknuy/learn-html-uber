@@ -1,0 +1,13 @@
+@mixin hover_btn {
+    &:hover {
+      transition: 1s all;
+      background: $color_red;
+    }
+  }
+
+  @mixin hover_link_blue {
+    &:hover {
+      transition: 1s all;
+      color: $color_blue;
+    }
+  }
